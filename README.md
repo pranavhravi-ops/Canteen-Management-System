@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Canteen Management System
 
 React frontend + Flask API + PostgreSQL database.
@@ -65,3 +66,6 @@ git push -u origin main
 6. Redeploy the frontend after setting its environment variables. Test adding a customer, cart/order, feedback, dashboard analytics, and browser console/network errors.
 
 The frontend must be rebuilt after changing `REACT_APP_*` variables. Database tables and production data are not included in this source archive.
+=======
+# Canteen-Management-System
+>>>>>>> 9bc11ee (Initial commit)
