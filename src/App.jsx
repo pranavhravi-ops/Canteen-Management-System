@@ -8,7 +8,6 @@ import AddCustomer from './pages/Addcustomer'; // Capitalize for consistency
 import FeedBackPage from './pages/FeedBackPage';
 import CustomersPage from './pages/CustomersPage';
 import InvoicesPage from './pages/InvoicesPage';
-import cart from './pages/cart';
 import Order from './pages/Order';
 import CustomerMap from './pages/CustomerMap'; // adjust the path as needed
 
