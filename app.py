@@ -16,6 +16,7 @@ CORS(app, resources={r"/*": {"origins": [origin.strip() for origin in allowed_or
 # DATABASE CONNECTION
 # -----------------------------------------
 
+
 def get_db_connection():
     """Connect using environment variables; never hardcode database credentials."""
     return psycopg2.connect(
